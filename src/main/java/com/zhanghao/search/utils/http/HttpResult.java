@@ -1,4 +1,4 @@
-package com.zhanghao.search.utisl.http;
+package com.zhanghao.search.utils.http;
 
 public class HttpResult {
     // 响应码

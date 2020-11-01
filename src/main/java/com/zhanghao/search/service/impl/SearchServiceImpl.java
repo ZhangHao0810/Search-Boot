@@ -22,9 +22,9 @@ import com.alibaba.fastjson.JSONObject;
 import com.zhanghao.search.dao.InformationDao;
 import com.zhanghao.search.model.Information;
 import com.zhanghao.search.service.Searchservice;
+import com.zhanghao.search.utils.http.HttpClientUtil;
+import com.zhanghao.search.utils.http.HttpResult;
 import com.zhanghao.search.utils.redis.RedisUtil;
-import com.zhanghao.search.utisl.http.HttpClientUtil;
-import com.zhanghao.search.utisl.http.HttpResult;
  
 
 @Service

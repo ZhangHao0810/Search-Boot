@@ -1,4 +1,4 @@
-package com.zhanghao.search.utisl.http;
+package com.zhanghao.search.utils.http;
 
 import java.util.ArrayList;
 import java.util.List;

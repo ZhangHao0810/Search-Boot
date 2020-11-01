@@ -1,4 +1,4 @@
-package com.zhanghao.search.utisl.http;
+package com.zhanghao.search.utils.http;
 
 import org.apache.http.client.config.RequestConfig;
 import org.apache.http.impl.client.CloseableHttpClient;
